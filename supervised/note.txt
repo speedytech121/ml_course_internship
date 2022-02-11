@@ -1,1 +1,0 @@
-if we want that our linear regression achieve curve path also: then we use polynomial growth functions
